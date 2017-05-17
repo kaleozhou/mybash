@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-17 18:16
+# Email        : kaleo1990@hotmail.com
+# Filename     : makeone
+# Description  : 
+# ******************************************************
+today()
+{
+        date "+%Y-%m-%d"
+
+}
+datestr=`today`;
+filename=$datestr."md";
+echo "# $datestr 日记" > ~/rizhi/workplan/$filename
+echo "## 工作">> ~/rizhi/workplan/$filename
+echo "### 今天工作内容" >> ~/rizhi/workplan/$filename
+echo "### 未完成的工作" >> ~/rizhi/workplan/$filename
+echo "### 工作总结" >> ~/rizhi/workplan/$filename
+echo "### 明天工作安排" >> ~/rizhi/workplan/$filename
+echo "## 生活记录" >> ~/rizhi/workplan/$filename
+echo "## [$datestr](/workplan/$filename)" >> ~/rizhi/workplan.md; 

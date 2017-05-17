@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
-#-*-coding:utf-8-*-
 # ******************************************************
 # Author       : kaleo
-# Last modified: 2017-04-14 00:17
+# Last modified: 2017-05-17 21:08
 # Email        : kaleo1990@hotmail.com
-# Filename     : tokaleomysql
+# Filename     : zuocao
 # Description  : 
 # ******************************************************
-echo "select * from ordersys.userdatas" | mysql -h120.24.159.2 -uroot -pkaleozhou ordersys
+xdg-open ~/Videos/ticao.mp4
