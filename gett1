@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-27 22:43
+# Email        : kaleo1990@hotmail.com
+# Filename     : gett1
+# Description  : 
+# ******************************************************
+sudo scp root@120.24.159.2:/var/www/html/t1.ixf /home/db2inst1/t1.ixf
+

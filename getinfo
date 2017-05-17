@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-04-06 20:46
+# Email        : kaleo1990@hotmail.com
+# Filename     : getinfo
+# Description  : 
+# ******************************************************
+sudo rm /home/db2inst1/info.tar.gz
+sudo scp root@120.24.159.2:/var/www/html/info.tar.gz /home/db2inst1/
+su - db2inst1

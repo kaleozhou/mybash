@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-02-17 16:56
+# Email        : kaleo1990@hotmail.com
+# Filename     : mysqltofile.sh
+# Description  : 
+# ******************************************************
+    echo "select * from "$1" limit 0,50000;" | mysql > ./$1.xlsx;

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-04 20:07
+# Email        : kaleo1990@hotmail.com
+# Filename     : myskip
+# Description  : 
+# ******************************************************
+
+skipfish -m 5 -LY -S /usr/share/skipfish/dictionaries/complete.wl -o ./skipfish2 -u $1

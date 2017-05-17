@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-04-05 17:57
+# Email        : kaleo1990@hotmail.com
+# Filename     : tourl
+# Description  : 
+# ******************************************************
+ls /home/kaleo/godeyes/public/download/
+echo "http://kaleozhou.iok.la/download/$1"

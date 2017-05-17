@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-04-15 16:00
+# Email        : kaleo1990@hotmail.com
+# Filename     : todingdian
+# Description  : 
+# ******************************************************
+ssh topsifen@61.164.40.156 -p6622

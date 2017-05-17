@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-02-22 17:40
+# Email        : kaleo1990@hotmail.com
+# Filename     : query
+# Description  : 
+# ******************************************************
+database=godeyes
+echo "select * from $database.$1 where id=(select max(id) from $database.$1);" | mysql

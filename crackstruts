@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-14 21:41
+# Email        : kaleo1990@hotmail.com
+# Filename     : crackstruts
+# Description  : 
+# ******************************************************
+python ~/mybash/exp.py

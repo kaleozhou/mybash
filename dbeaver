@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-04-30 18:15
+# Email        : kaleo1990@hotmail.com
+# Filename     : dbeaver
+# Description  : 
+# ******************************************************
+cd ~/dbeaver
+./dbeaver

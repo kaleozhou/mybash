@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-02-17 16:12
+# Email        : kaleo1990@hotmail.com
+# Filename     : install.sh
+# Description  : 
+# ******************************************************
+myapp(){
+    case $1 in
+        install | -i)
+    sudo ln -s ~/mybash/$2 /usr/local/bin/$2
+    echo "$2 install success"
+    ;;
+        uninstall |-u)
+    sudo rm /usr/local/bin/$2
+    echo "$2 uninstall success"
+    ;;
+    esac
+}
+if [[ $1 = "" || $2 = "" ]]; then
+    #statements
+    echo "please check your input!"
+    echo "eg:myapp install search"
+else
+myapp $1 $2
+fi

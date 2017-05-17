@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-02-17 16:56
+# Email        : kaleo1990@hotmail.com
+# Filename     : mysqltofile.sh
+# Description  : 
+# ******************************************************
+if [[ $1 = "-help" || $1 = "" ]]; then
+        echo "第$page_num 页,共$page_size 条";
+else
+    page_num=0
+    page_size=100000
+    if [[ $2 = "" ]];then
+        echo "第$page_num 页,共$page_size 条";
+    else
+    if [[ $3 = "" ]];then
+        page_size=10000
+    else
+        page_size=$3
+    fi
+        page_num=`expr  $2 - 1  `;
+        page_num=`expr  $page_num \* $page_size  `;
+    fi
+    echo "select * from myfile.customer where id>21543 and phone like '1%' limit 0,$2;" | mysql > ./$1.xlsx;
+    echo "第$2 页,共$page_size 条";
+fi

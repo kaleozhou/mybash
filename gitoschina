@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-14 14:39
+# Email        : kaleo1990@hotmail.com
+# Filename     : gitfromkaleo
+# Description  : 
+# ******************************************************
+echo git clone https://git.oschina.net/kaleozhou/$1.git
+git clone https://git.oschina.net/kaleozhou/$1.git

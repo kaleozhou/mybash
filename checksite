@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-23 22:02
+# Email        : kaleo1990@hotmail.com
+# Filename     : checksite
+# Description  : 
+# ******************************************************
+
+cd /home/kaleo/mybash
+python s2-045.py $1 'whoami'

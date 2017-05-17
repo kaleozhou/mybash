@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-04-11 16:54
+# Email        : kaleo1990@hotmail.com
+# Filename     : uftptobigher
+# Description  : 
+# ******************************************************
+if [[ $1 = "" ]]; then
+    filename='041101-fulian.zip'
+else
+    filename=$1
+fi
+if [[ $2 = "" ]]; then
+    hostname='192.168.0.102'
+scp $filename bigher@$hostname:/home/bigher/
+else
+scp $filename bigher@$hostname:/home/bigher/$2
+fi

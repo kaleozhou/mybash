@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-11 13:08
+# Email        : kaleo1990@hotmail.com
+# Filename     : updatetodaydata
+# Description  : 
+# ******************************************************
+echo `date`
+echo php ~/phpspider/demo/todaydata_yuncai.php 
+php ~/phpspider/demo/todaydata_yuncai.php 
+#php ~/phpspider/demo/todaydata.php 

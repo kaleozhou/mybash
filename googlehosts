@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-04-30 19:47
+# Email        : kaleo1990@hotmail.com
+# Filename     : googlehost
+# Description  : 
+# ******************************************************
+sudo cp /home/kaleo/Downloads/hosts /etc/hosts
+sudo /etc/init.d/networking restart
+echo 'hosts 替换成功'

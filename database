@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-02-19 19:16
+# Email        : kaleo1990@hotmail.com
+# Filename     : createbase
+# Description  : 
+# ******************************************************
+if [[ $1 = "drop" ]]; then
+echo "drop database $2;" | mysql -uroot -pkaleozhou
+    #statements
+    echo "please input database name!"
+    echo "show databases;" | mysql -uroot -pkaleozhou
+else
+echo "create database $2 default character set utf8 collate utf8_general_ci;" | mysql -uroot -pkaleozhou
+echo "show databases;" | mysql -uroot -pkaleozhou
+fi

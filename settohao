@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-04 14:34
+# Email        : kaleo1990@hotmail.com
+# Filename     : settohao
+# Description  : 
+# ******************************************************
+echo 'select id from zb_member where mobile='$1';' | mysql -h106.14.59.186 -uroot -phzdlmwhzb888 mmtvzb.com 
+echo 'update  zb_member set `money`='888888' where `id`=(select id from id_table where mobile='$1');' | mysql -h106.14.59.186 -uroot -phzdlmwhzb888 mmtvzb.com
+echo 'select id,money from zb_member where mobile='$1';' | mysql -h106.14.59.186 -uroot -phzdlmwhzb888 mmtvzb.com

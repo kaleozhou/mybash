@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-01 17:44
+# Email        : kaleo1990@hotmail.com
+# Filename     : scan445
+# Description  : 
+# ******************************************************
+nmap -Pn -T4 -p445 -O -script-args safe=1 $1

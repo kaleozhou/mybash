@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-22 16:12
+# Email        : kaleo1990@hotmail.com
+# Filename     : tokaleo
+# Description  : 
+# ******************************************************
+ssh root@120.24.159.2

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-16 18:19
+# Email        : kaleo1990@hotmail.com
+# Filename     : msflisten
+# Description  : 
+# ******************************************************
+cd ~/mybash
+echo msfconsole -r ls$1.rc
+msfconsole -r ls$1.rc

@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-05 08:10
+# Email        : kaleo1990@hotmail.com
+# Filename     : findphone
+# Description  : 
+# ******************************************************
+cd ~/getphone
+./findphone $1 $2

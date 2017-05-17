@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-26 01:04
+# Email        : kaleo1990@hotmail.com
+# Filename     : caidao
+# Description  : 
+# ******************************************************
+cd ~/GodTools/Cknife/
+java -jar Cknife.jar

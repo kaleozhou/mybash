@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-17 13:12
+# Email        : kaleo1990@hotmail.com
+# Filename     : gitremoteadd
+# Description  : 
+# ******************************************************
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:kaleozhou/$1.git
+git push -u origin master

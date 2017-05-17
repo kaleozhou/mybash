@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-10 11:38
+# Email        : kaleo1990@hotmail.com
+# Filename     : getsite
+# Description  : 
+# ******************************************************
+wget -r -p -k -np $1 

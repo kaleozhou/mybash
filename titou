@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2016-12-27 20:27
+# Email        : kaleo1990@hotmail.com
+# Filename     : titou
+# Description  : 
+# ******************************************************
+echo '第'$1'次' `date`>>titou.md
+

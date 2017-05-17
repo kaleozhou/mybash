@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# coding:utf-8
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-16 11:44
+# Email        : kaleo1990@hotmail.com
+# Filename     : godtools
+# Description  : 
+# ******************************************************
+cd  /home/kaleo/workspace/GodTools/ 
+python /home/kaleo/GodTools/godtools.py 

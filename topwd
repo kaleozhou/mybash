@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-01 02:49
+# Email        : kaleo1990@hotmail.com
+# Filename     : topwd
+# Description  : 
+# ******************************************************
+echo $1 >> /home/kaleo/mybash/pwd.txt

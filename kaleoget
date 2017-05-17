@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#-*-coding:utf-8-*-
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-03-31 13:41
+# Email        : kaleo1990@hotmail.com
+# Filename     : kaleoget
+# Description  : 
+# ******************************************************
+scp root@120.24.159.2:/var/www/html/$1 .
