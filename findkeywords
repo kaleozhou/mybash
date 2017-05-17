@@ -7,4 +7,4 @@
 # Filename     : tokaleomysql
 # Description  : 
 # ******************************************************
-echo 'select plan,groups,keyword,url from ordersys.keywords' | mysql -h120.24.159.2 -uroot -pkaleozhou ordersys
+echo "select plan,groups,keyword,url from ordersys.keywords where url='$1' or keyword='$1'" | mysql -h120.24.159.2 -uroot -pkaleozhou ordersys
