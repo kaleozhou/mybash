@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-18 21:20
+# Email        : kaleo1990@hotmail.com
+# Filename     : myappinstallall
+# Description  : 
+# ******************************************************
+myapp install add
+myapp install caidao
+myapp install checksite
+myapp install createtable
+myapp install csvtokey
+myapp install daili
+myapp install database
+myapp install dbeaver
+myapp install dbtommtv
+myapp install exreset
+myapp install filetomysql
+myapp install findphone
+myapp install findwords
+myapp install getinfo
+myapp install getkaleo
+myapp install github
+myapp install gitinit
+myapp install googlehosts
+myapp install keytocsv
+myapp install makenote
+myapp install msflisten
+myapp install puttokaleo
+myapp install scanport
+myapp install scptokaleo
+myapp install showkeywords
+myapp install showuserdatas
+myapp install showzhibo
+myapp install spoon
+myapp install titou
+myapp install todingdian
+myapp install tokaleo
+myapp install tokaleomysql
+myapp install tossh
+myapp install updatetodaydata
+myapp install zuocao
