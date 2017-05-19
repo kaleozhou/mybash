@@ -6,4 +6,4 @@
 # Filename     : scan445
 # Description  : 
 # ******************************************************
-nmap -Pn -T4 -p445 -O -script-args safe=1 $1
+nmap -Pn -T4 -p445 -script-args safe=1 $1
