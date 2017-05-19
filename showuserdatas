@@ -7,4 +7,4 @@
 # Filename     : tokaleomysql
 # Description  : 
 # ******************************************************
-echo "select * from ordersys.userdatas" | mysql -h120.24.159.2 -uroot -pkaleozhou ordersys
+echo "select * from (select * from ordersys.userdatas order by id desc limit 50) tab order by id;" | mysql -h120.24.159.2 -uroot -pkaleozhou ordersys
