@@ -13,6 +13,6 @@ today()
 
 }
 today=`today`;
-echo "select * from userdatas;" | mysql -h120.24.159.2 -uroot -pkaleozhou ordersys
+echo "select id,name,phone,qq,created_at from userdatas;" | mysql -h120.24.159.2 -uroot -pkaleozhou ordersys
 echo "今天注册了："
 echo "select count(*) from ordersys.userdatas where created_at>'$today';" | mysql -h120.24.159.2 -uroot -pkaleozhou ordersys
