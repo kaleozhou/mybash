@@ -1,0 +1,1993 @@
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-05-18 11:46 CST
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2017-05-18 11:46 CST
+Nmap scan report for 10.169.205.1
+Host is up (0.00011s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:B0:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.2
+Host is up (0.000093s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:02:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.3
+Host is up (0.000091s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:21:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.4
+Host is up (0.00010s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:38:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.5
+Host is up (0.00010s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:15:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.6
+Host is up (0.000098s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1A:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.7
+Host is up (0.000097s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:61:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.8
+Host is up (0.000096s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.9
+Host is up (0.000095s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0F:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.10
+Host is up (0.000094s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AE:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.11
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.12
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:2E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.13
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:12:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.14
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:16:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.15
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:98:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.16
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:21:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.17
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AE:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.18
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A2:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.19
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6B:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.20
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:67:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.21
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:23:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.22
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:22:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.23
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7B:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.24
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:9A:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.25
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:20:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.26
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:4B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.27
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AE:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.28
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7A:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.29
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:2B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.30
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:50:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.31
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:37:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.32
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.33
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:31:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.34
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:19:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.35
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:85:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.36
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:04:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.37
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:06:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.38
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AE:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.39
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0B:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.40
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8E:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.41
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:53:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.42
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.43
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:59:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.44
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:29:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.45
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:96:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.46
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:34:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.47
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8F:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.49
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:59:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.50
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:9B:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.51
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:85:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.52
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A0:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.53
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A8:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.54
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.55
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:89:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.57
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.58
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.59
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.60
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:60:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.61
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AD:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.62
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.63
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:95:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.64
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:01:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.65
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7A:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.67
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:91:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.68
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1E:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.69
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A8:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.70
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:4C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.71
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:83:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.72
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8A:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.73
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:21:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.74
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:81:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.75
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.76
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:9C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.77
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.78
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:5C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.79
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.80
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.82
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:78:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.83
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:11:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.84
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0A:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.85
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1A:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.86
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:2B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.87
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AA:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.88
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.89
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:88:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.90
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:12:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.91
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:20:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.92
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:5B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.93
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:37:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.94
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.95
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.96
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:10:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.97
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:5E:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.99
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:29:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.100
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:79:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.101
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3B:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.102
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:72:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.103
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:24:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.104
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:27:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.105
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:2C:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.106
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:88:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.107
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A0:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.108
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8F:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.109
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:9E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.110
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A5:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.111
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:83:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.112
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:70:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.113
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:02:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.114
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:5F:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.115
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0F:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.116
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:9B:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.117
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:67:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.118
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1F:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.119
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:57:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.120
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:39:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.121
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:5E:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.122
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1A:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.123
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.124
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6C:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.125
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:79:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.126
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:64:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.127
+Host is up (-0.067s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:9C:00 (Xensource)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows 2008|7|Vista|8.1
+OS CPE: cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_vista cpe:/o:microsoft:windows_8.1
+OS details: Microsoft Windows Server 2008 R2, Microsoft Windows 7, Microsoft Windows 7 Professional SP1, Microsoft Windows 7 SP0 - SP1, Microsoft Windows 7 SP1, Microsoft Windows Vista, Microsoft Windows Vista SP2 or Windows 7 Ultimate SP0 - SP1, Microsoft Windows Vista, Windows 7 SP1, or Windows 8.1 Update 1
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.128
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:13:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.129
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:13:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.130
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:18:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.131
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.132
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:5F:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.133
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:38:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.134
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3A:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.135
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:48:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.136
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A3:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.137
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A1:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.138
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.139
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1A:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.140
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:32:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.141
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:31:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.142
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A1:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.143
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:21:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.144
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.145
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8B:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.146
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:46:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.147
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A8:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.148
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:38:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.149
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:25:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.150
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8E:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.151
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:08:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.152
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:16:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.153
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:14:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.154
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3B:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.155
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:15:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.156
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0F:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.157
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:30:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.158
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:63:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.159
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:91:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.161
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AC:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.162
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:0E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.163
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A3:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.164
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:56:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.165
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:24:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.166
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:66:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.167
+Host is up (-0.023s latency).
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+MAC Address: 00:16:3E:00:B2:00 (Xensource)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows 2008|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008:r2 cpe:/o:microsoft:windows_vista:::enterprise
+OS details: Microsoft Windows Server 2008 R2, Microsoft Windows Vista Enterprise
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.168
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:16:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.169
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:34:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.170
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:44:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.171
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:93:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.172
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7D:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.173
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A4:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.174
+Host is up (-0.034s latency).
+PORT    STATE  SERVICE
+445/tcp closed microsoft-ds
+MAC Address: 00:16:3E:00:24:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.175
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:78:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.176
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:4F:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.177
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AE:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.178
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:25:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.179
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:9A:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.180
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:2A:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.181
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.182
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.183
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3C:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.184
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:11:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.185
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:15:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.186
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.187
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:12:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.188
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:18:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.189
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:22:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.190
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:99:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.191
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1A:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.192
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:95:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.193
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:41:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.194
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:37:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.195
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:43:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.197
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A0:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.198
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:07:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.199
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AD:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.200
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1B:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.201
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1F:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.203
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:41:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.204
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3F:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.205
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:85:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.206
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8C:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.207
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:56:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.208
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:99:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.209
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:69:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.210
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:6E:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.211
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:04:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.212
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:5C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.213
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:61:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.214
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1C:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.215
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:B0:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.216
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1C:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.217
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:91:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.218
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.219
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:B1:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.220
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:8E:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.221
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:50:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.222
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:2E:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.223
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:2C:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.224
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:AE:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.225
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:16:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.226
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:49:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.227
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:02:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.228
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:48:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.229
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:3D:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.230
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:12:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.231
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:24:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.232
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:02:2B:46 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.233
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:65:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.234
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:93:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.235
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:57:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.236
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:4E:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.237
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:99:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.238
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:14:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.239
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:62:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.240
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:19:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.241
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:43:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.242
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:65:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.243
+Host is up (-0.100s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:7D:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.244
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:56:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.245
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:11:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.246
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:1D:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.247
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:86:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.248
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:48:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.249
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:27:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.250
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:85:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.251
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:65:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.252
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:82:FF (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.253
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:A4:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for 10.169.205.254
+Host is up (-0.10s latency).
+PORT    STATE    SERVICE
+445/tcp filtered microsoft-ds
+MAC Address: 00:16:3E:00:28:00 (Xensource)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 1 hop
+
+Nmap scan report for iZwz92wzdy3bbx2ubjwdx8Z (10.169.205.81)
+Host is up (0.000051s latency).
+PORT    STATE  SERVICE
+445/tcp closed microsoft-ds
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Linux 2.4.X|2.6.X
+OS CPE: cpe:/o:linux:linux_kernel:2.4.20 cpe:/o:linux:linux_kernel:2.6
+OS details: Linux 2.4.20, Linux 2.6.14 - 2.6.34, Linux 2.6.17 (Mandriva), Linux 2.6.23, Linux 2.6.24
+Network Distance: 0 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (247 hosts up) scanned in 59.27 seconds
