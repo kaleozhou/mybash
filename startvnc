@@ -1,11 +1,9 @@
 #!/usr/bin/env bash
 # ******************************************************
 # Author       : kaleo
-# Last modified: 2017-05-16 18:19
+# Last modified: 2017-05-21 18:07
 # Email        : kaleo1990@hotmail.com
-# Filename     : msflisten
+# Filename     : startvnc
 # Description  : 
 # ******************************************************
-cd ~/mybash
-cat ls$1.rc
-msfconsole -r ls$1.rc
+x11vnc -auth guess -forever -loop -noxdamage -repeat -rfbauth /home/kaleo/.vnc/passwd -rfbport 5900 -shared
