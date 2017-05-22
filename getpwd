@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-22 08:26
+# Email        : kaleo1990@hotmail.com
+# Filename     : getpwd
+# Description  : 
+# ******************************************************
+echo -n $1|md5sum|cut -d ' ' -f1
