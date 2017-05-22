@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-05-22 08:45
+# Email        : kaleo1990@hotmail.com
+# Filename     : jiemi
+# Description  : 
+# ******************************************************
+pass=`getpwd kaleozhou`
+unzip -P $pass -x $1 -d kaleozhou 

